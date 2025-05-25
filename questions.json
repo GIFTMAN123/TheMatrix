@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Earth", "Jupiter", "Saturn", "Neptune"],
+    "answer": 1
+  },
+  {
+    "question": "What galaxy do we live in?",
+    "options": ["Andromeda", "Milky Way", "Whirlpool", "Sombrero"],
+    "answer": 1
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Mars", "Venus", "Mercury", "Uranus"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of our closest star?",
+    "options": ["Sirius", "Proxima Centauri", "Sun", "Alpha Centauri"],
+    "answer": 2
+  },
+  {
+    "question": "How many moons does Mars have?",
+    "options": ["1", "2", "3", "4"],
+    "answer": 1
+  }
+]
