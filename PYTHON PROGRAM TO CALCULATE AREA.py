@@ -4,10 +4,12 @@ if OPERATION == "1":
     print("You have chosen Area input the parameters below")
     Radius = int(input("Radius: "))
     Area = Radius * Radius * 22/7
-    print("The Area is: " + str(Area) + "cm square")
+    print("The Area is: " + str(Area) + " cm square")
     print("======================================================================================")
 elif OPERATION == "2":
     print("You have chosen Perimeter pls input the parameters below")
     Radius_2 = int(input("Radius: "))
     Circumference = 2 * 22/7 * Radius_2
-    print("The perimeter of the circle is:" + str(Circumference) + "centimeters")
+    print("The perimeter of the circle is: " + str(Circumference) + " centimeters")
+else:
+    print("Kindly choose a valid option")
